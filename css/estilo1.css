@@ -1,0 +1,62 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+#general
+{
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 500px;
+    width: 620px;
+    height: 620px;
+    background-color: aquamarine;
+}
+#caja1
+{
+    margin: auto;
+    margin-top: 10px;
+    width: 1px;
+    height: 1px;
+    background-color: crimson;
+}
+#caja2
+{
+    margin: auto;
+    margin-top: 300px;
+    border-radius: 200px;
+    width: 90px;
+    height: 80px;
+    background-color: lightblue;
+}
+#caja3
+{
+    margin: auto;
+    margin-left: 40px;
+    margin-top: 130px;
+    border-radius: 200px;
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color:yellow ;
+}
+#caja4
+{
+    margin: auto;
+    border-radius: 500px;
+    margin-right: 40px;
+    margin-top: 130px;
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+#caja5
+{
+    margin: auto;
+    margin-top: 62px;
+    border-radius: 200px;   
+    width: 300px;
+    height: 90px;
+    background-color: darkgreen;
+}
